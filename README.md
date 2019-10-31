@@ -1,2 +1,4 @@
 # Password-Generator
 A password generator based on account name and what time it is being reset
+
+This program generates password based on account name and what time it is being reset. A GUI making use of Tkinter and data storing support will be added soon. This is the logical background of the program. Newer version will store passwords from first to the last ones whether  you tell what your older passwords were or not to the program. Because algorithm used in this program follows a pattern making it guess older passwords and newer incoming passwords. Like a formula with 2 unkown parameters. I made this program after I got attacked by an email phisher. I felt the need of a personal password program. So I will use another formula for passwprds changing only a few line in the code. U will understand what I mean.
